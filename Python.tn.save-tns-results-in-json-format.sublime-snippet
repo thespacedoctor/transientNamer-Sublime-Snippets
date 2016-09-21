@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+# EXPORT TNS RESULTS 
+tns.json(${1:"/path/to/export-dir"})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>xtn-save-tns-results-in-json-format</tabTrigger>
+    <!-- Required: Base Phrase to generate tab-triggers -->
+    <triggerBase>save-tns-results-in-json-format</triggerBase>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>snip</description>
+    <!-- Optional: Tags to help with tab completion -->
+    <tags></tags>
+</snippet>

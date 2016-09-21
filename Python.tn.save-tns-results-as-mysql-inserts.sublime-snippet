@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+# EXPORT TNS RESULTS 
+tns.mysql("${1:"tablePrefix"}", ${2:"/path/to/export-dir"})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>xtn-save-tns-results-as-mysql-inserts</tabTrigger>
+    <!-- Required: Base Phrase to generate tab-triggers -->
+    <triggerBase>save-tns-results-as-mysql-inserts</triggerBase>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>snip</description>
+    <!-- Optional: Tags to help with tab completion -->
+    <tags></tags>
+</snippet>

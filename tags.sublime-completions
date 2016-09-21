@@ -1,0 +1,27 @@
+{
+"scope": "source.python",
+"completions":
+[
+   
+	{ "trigger": "tn> save tns results in markdown format\tcomp", "contents": "xtn-save-tns-results-in-markdown-format" },
+	{ "trigger": "tn> object notes as a string\tcomp", "contents": "xtn-object-notes-as-a-string" },
+	{ "trigger": "tn> tns search result sources\tcomp", "contents": "xtn-tns-search-result-sources" },
+	{ "trigger": "tn> render tns results in ascii table format\tcomp", "contents": "xtn-render-tns-results-in-ascii-table-format" },
+	{ "trigger": "tn> render tns results as yaml\tcomp", "contents": "xtn-render-tns-results-as-yaml" },
+	{ "trigger": "tn> save tns results as ascii table\tcomp", "contents": "xtn-save-tns-results-as-ascii-table" },
+	{ "trigger": "tn> tns name search\tcomp", "contents": "xtn-tns-name-search" },
+	{ "trigger": "tn> tns search results spectral data\tcomp", "contents": "xtn-tns-search-results-spectral-data" },
+	{ "trigger": "tn> tns conesearch\tcomp", "contents": "xtn-tns-conesearch" },
+	{ "trigger": "tn> save tns results in json format\tcomp", "contents": "xtn-save-tns-results-in-json-format" },
+	{ "trigger": "tn> tns search related source files\tcomp", "contents": "xtn-tns-search-related-source-files" },
+	{ "trigger": "tn> render tns results in markdown format\tcomp", "contents": "xtn-render-tns-results-in-markdown-format" },
+	{ "trigger": "tn> save tns results in csv format\tcomp", "contents": "xtn-save-tns-results-in-csv-format" },
+	{ "trigger": "tn> save tns results as mysql inserts\tcomp", "contents": "xtn-save-tns-results-as-mysql-inserts" },
+	{ "trigger": "tn> save tns results in yaml format\tcomp", "contents": "xtn-save-tns-results-in-yaml-format" },
+	{ "trigger": "tn> tns search source photometry\tcomp", "contents": "xtn-tns-search-source-photometry" },
+	{ "trigger": "tn> render tns results as json\tcomp", "contents": "xtn-render-tns-results-as-json" },
+	{ "trigger": "tn> tns search url\tcomp", "contents": "xtn-tns-search-url" },
+	{ "trigger": "tn> render tns results in csv\tcomp", "contents": "xtn-render-tns-results-in-csv" },
+	{ "trigger": "tn> tns recent discoveries search\tcomp", "contents": "xtn-tns-recent-discoveries-search" } 
+]
+}
