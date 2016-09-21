@@ -4,7 +4,6 @@
 [
    
 	{ "trigger": "tn> save tns results in markdown format\tcomp", "contents": "xtn-save-tns-results-in-markdown-format" },
-	{ "trigger": "tn> object notes as a string\tcomp", "contents": "xtn-object-notes-as-a-string" },
 	{ "trigger": "tn> tns search result sources\tcomp", "contents": "xtn-tns-search-result-sources" },
 	{ "trigger": "tn> render tns results in ascii table format\tcomp", "contents": "xtn-render-tns-results-in-ascii-table-format" },
 	{ "trigger": "tn> render tns results as yaml\tcomp", "contents": "xtn-render-tns-results-as-yaml" },
